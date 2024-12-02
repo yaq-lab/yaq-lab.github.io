@@ -1,0 +1,84 @@
+.Proyecto {
+  max-width: 1200px;
+  margin: 0 auto;
+  /* Centrar la sección horizontalmente */
+}
+
+body {
+  background-color: #F2EBF0;
+}
+
+h1 {
+  font-family: 'Young Serif';
+}
+
+h2 {
+  font-family: 'Libre Caslon Display';
+}
+
+h4 {
+  font-family: 'Kurale';
+}
+
+p {
+  font-family: 'Cormorant Infant';
+}
+
+header {
+  font-family: 'Cormorant Infant';
+  background-color: #D9A7B0;
+}
+
+.nav-item a{
+  color: #734854;
+}
+
+.perfil{
+  color: #734854;
+}
+
+.nav-item a:hover{
+  color: #F2EBF0;
+}
+
+#app{
+  color:#734854
+}
+
+.boton-cv{
+  background-color: #402924;
+  border-color: #402924;
+  color: #D9A7B0;
+}
+
+.caja-habilidades{
+  background-color: #BF6FA3;
+}
+
+.habilidades{
+  color: bisque;
+}
+
+.row{
+  color: #734854;
+}
+
+.icon-link{
+  color: #402924;
+}
+
+.card{
+  background-color: #D9A7B0;
+}
+
+.contacto-caja{
+  background-color: #F2CBBD;
+}
+
+.btn{
+  background-color: #D9A7B0;
+  color: #402924;
+}
+
+  color: black;
+}
